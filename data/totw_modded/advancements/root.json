@@ -1,7 +1,7 @@
 {
     "display": {
         "icon": {
-            "item": "waystones:mossy_waystone"
+            "item": "fwaystones:waystone"
         },
         "title": {
             "translate": "Towers of the Wild: Modded"
